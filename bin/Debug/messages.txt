@@ -1,0 +1,5 @@
+User: Hello!
+Bot: Hello! How can I help you?
+
+User: this message for testing bi.t-ch
+Bot: this message for testing *****
